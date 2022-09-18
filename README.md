@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vipin Talreja</h1>
+<h1 align="left">Hi 👋, I'm Vipin Talreja</h1>
+<h3 align="left">A Web Development Enthusiast.</h3>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipinnnn&label=Profile%20views&color=0e75b6&style=flat" alt="vipinnnn" /> </p> -->
 
 - 📫 Reach me at: **vipintalreja.33@gmail.com**
