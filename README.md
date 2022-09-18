@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Vipin Talreja</h1>
 <h3 align="left">A Web Development Enthusiast.</h3>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipinnnn&label=Profile%20views&color=0e75b6&style=flat" alt="vipinnnn" /> </p> -->
+<img src="https://www.muhammetsafak.com.tr/assets/images/back-end-developer.gif" width="20%" align="right"/>
 
 - 📫 Reach me at: **vipintalreja.33@gmail.com**
 
