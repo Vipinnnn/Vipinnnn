@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Vipin Talreja</h1>
-<h3 align="left">A Web Development Enthusiast.</h3>
-<img src="https://www.muhammetsafak.com.tr/assets/images/back-end-developer.gif" width="20%" align="right"/>
+<h3 align="left">A Web Development Enthusiast. <img src="https://www.muhammetsafak.com.tr/assets/images/back-end-developer.gif" width="33%" align="right"/></h3>
+
 
 - 📫 Reach me at: **vipintalreja.33@gmail.com**
 
