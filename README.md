@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vipin</h1>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipinnnn&label=Profile%20views&color=0e75b6&style=flat" alt="vipinnnn" /> </p> -->
 
-- 📫 How to reach me **vipintalreja.33@gmail.com**
+- 📫 Reach me at: **vipintalreja.33@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
 </p>
 
