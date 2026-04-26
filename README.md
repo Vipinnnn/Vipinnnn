@@ -1,12 +1,11 @@
 <h1 align="left">Hi 👋, I'm Vipin Talreja</h1>
-<h3 align="left">Data Engineer | GCP | BigQuery | Airflow</h3>---
+<h3 align="left">Data Engineer | GCP | BigQuery | Airflow</h3>
 
 🚀 About Me
 
 - Data Engineer with close to 3 years of experience in building scalable data pipelines and delivering large-scale cloud migrations to Google Cloud Platform (GCP)
 - Strong in BigQuery SQL, Apache Airflow, dbt, and PySpark
 - Experienced in ETL/ELT pipelines, data modeling, and pipeline optimization
-- Improved pipeline performance by 70% (50 min → 15 min) in production systems
 - Worked on enterprise-scale migrations from legacy systems to modern cloud architectures
 
 ---
@@ -30,16 +29,7 @@
 <p>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/jira/jira-icon.svg" width="40" height="40"/>
-</p>---
-
-📊 Featured Project
-
-🎧 Spotify Data Pipeline
-
-- Built an automated ETL pipeline using Apache Airflow
-- Extracted data from Spotify API + web sources
-- Transformed and loaded structured data into GCS
-- Designed for scalable downstream analytics
+</p>
 
 ---
 
